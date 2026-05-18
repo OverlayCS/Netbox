@@ -1,6 +1,8 @@
 # Netbox
 a server side network library for photon pun (maybe fusion) and playfab in one simple to use security first api
 
+ik the image doesnt show it but idk what to do without playfab so all the transports have to use playfab as of right now
+
 ![Logo](netbox_architecture.svg)
 
 
